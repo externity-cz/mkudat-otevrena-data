@@ -1,6 +1,6 @@
 {
     "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-    "iri": "https://raw.githubusercontent.com/opendata-mvcr/lkod-min/main/katalog.jsonld",
+    "iri": "https://raw.githubusercontent.com/opendata-mvcr/lkod-min/master/katalog.jsonld",
     "typ": "Katalog",
     "název": {
         "cs": "Lokální katalog otevřených dat Ministerstva kultury",
@@ -13,10 +13,10 @@
     "kontaktní_bod": {
         "typ": "Organizace",
         "jméno": {
-          "cs": "Jan Novák",
-          "en": "John Newman"
+          "cs": "René Vedra",
+          "en": "Rene Vedra"
         },
-        "e-mail": "mailto:newman@organization.cz"
+        "e-mail": "mailto:Rene.Vedra@mkcr.cz"
     },
     "domovská_stránka": "https://github.com/externity-cz/mkudat-otevrena-data",
     "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00023671",
