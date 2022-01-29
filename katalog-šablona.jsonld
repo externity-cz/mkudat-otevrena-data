@@ -1,6 +1,6 @@
 {
     "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-    "iri": "https://raw.githubusercontent.com/opendata-mvcr/lkod-min/master/katalog.jsonld",
+    "iri": "https://raw.githubusercontent.com/externity-cz/mkudat-otevrena-data/master/katalog.jsonld",
     "typ": "Katalog",
     "název": {
         "cs": "Lokální katalog otevřených dat Ministerstva kultury",
