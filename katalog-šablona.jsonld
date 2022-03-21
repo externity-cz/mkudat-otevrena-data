@@ -13,10 +13,10 @@
     "kontaktní_bod": {
         "typ": "Organizace",
         "jméno": {
-          "cs": "René Vedra",
-          "en": "Rene Vedra"
+          "cs": "Jakub Janča",
+          "en": "Jakub Janča"
         },
-        "e-mail": "mailto:Rene.Vedra@mkcr.cz"
+        "e-mail": "mailto:jakub.janca@mkcr.cz"
     },
     "domovská_stránka": "https://github.com/externity-cz/mkudat-otevrena-data",
     "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00023671",
